@@ -2,4 +2,4 @@ spring:
   cloud:
     function:
       scan:
-        packages: "com.example.lambda.function"
+        packages: "com.example.lambda"
